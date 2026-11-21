@@ -1,0 +1,20 @@
+[     390ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5179/node_modules/.vite/deps/react-dom_client.js?v=fa9c319c:15557
+[     607ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5179/node_modules/.vite/deps/three.module-DOkFhzP6.js?v=fa9c319c:1741
+[   54739ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5179/node_modules/.vite/deps/react-dom_client.js?v=fa9c319c:15557
+[   54860ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5179/node_modules/.vite/deps/three.module-DOkFhzP6.js?v=fa9c319c:1741
+[   61891ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5179/node_modules/.vite/deps/react-dom_client.js?v=fa9c319c:15557
+[   61994ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5179/node_modules/.vite/deps/three.module-DOkFhzP6.js?v=fa9c319c:1741
+[  116045ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5179/node_modules/.vite/deps/react-dom_client.js?v=fa9c319c:15557
+[  116147ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5179/node_modules/.vite/deps/three.module-DOkFhzP6.js?v=fa9c319c:1741
+[  130323ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5179/node_modules/.vite/deps/react-dom_client.js?v=fa9c319c:15557
+[  130420ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5179/node_modules/.vite/deps/three.module-DOkFhzP6.js?v=fa9c319c:1741
+[  153811ms] [ERROR] [vite] TypeError: Cannot redefine property: __ditoAudio
+    at Object.defineProperty (<anonymous>)
+    at http://localhost:5179/src/audio.ts?t=1795179545872:638:9 @ http://localhost:5179/@vite/client:1010
+[  153812ms] [ERROR] [vite] Failed to reload /src/components/Header.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5179/@vite/client:1010
+[  155885ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5179/node_modules/.vite/deps/react-dom_client.js?v=fa9c319c:15557
+[  155980ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5179/node_modules/.vite/deps/three.module-DOkFhzP6.js?v=fa9c319c:1741
+[  215175ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5179/node_modules/.vite/deps/react-dom_client.js?v=fa9c319c:15557
+[  215280ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5179/node_modules/.vite/deps/three.module-DOkFhzP6.js?v=fa9c319c:1741
+[  227311ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5179/node_modules/.vite/deps/react-dom_client.js?v=fa9c319c:15557
+[  227405ms] [WARNING] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead. @ http://localhost:5179/node_modules/.vite/deps/three.module-DOkFhzP6.js?v=fa9c319c:1741

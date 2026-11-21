@@ -1,0 +1,272 @@
+- generic [ref=f5e2]:
+  - banner [ref=f5e3]:
+    - link "Skip to content" [ref=f5e4] [cursor=pointer]:
+      - /url: "#main"
+    - link "Ditó home" [ref=f5e5] [cursor=pointer]:
+      - /url: "#top"
+    - button "Open menu" [ref=f5e10] [cursor=pointer]
+  - main [ref=f5e13]:
+    - region "Ditó a teddy on a cloud." [ref=f5e14]:
+      - generic:
+        - generic:
+          - heading "Ditó a teddy on a cloud." [level=1]:
+            - generic: Ditó
+            - generic: a teddy on a cloud.
+      - generic:
+        - generic:
+          - generic:
+            - button "Tell me a story" [ref=f5e16] [cursor=pointer]
+            - button "How was your day?" [ref=f5e17] [cursor=pointer]
+            - button "Do a trick!" [ref=f5e18] [cursor=pointer]
+            - button "Good night, Ditó" [ref=f5e19] [cursor=pointer]
+          - generic [ref=f5e20]:
+            - button "Tricks" [ref=f5e21] [cursor=pointer]
+            - textbox "Say something to Ditó" [active] [ref=f5e24]:
+              - /placeholder: Say something to Ditó…
+            - button "Talk to Ditó" [ref=f5e25] [cursor=pointer]
+    - generic [ref=f5e29]:
+      - region [ref=f5e30]:
+        - generic [ref=f5e31]:
+          - paragraph [ref=f5e32]:
+            - generic [ref=f5e33]: (01)
+            - text: The story
+          - heading "Ditó lives on a cloud. Right above your roof." [level=2] [ref=f5e34]:
+            - text: Ditó lives on a cloud.
+            - generic [ref=f5e35]: Right above your roof.
+          - generic [ref=f5e36]: Here is how he got there, as far as the night watchman remembers.
+        - list [ref=f5e37]:
+          - listitem [ref=f5e38]:
+            - text: I
+            - heading "The ring" [level=3] [ref=f5e39]
+            - paragraph [ref=f5e40]: Every full moon a brass ring lights up at the edge of the sky. The night watchman called it the gate and kept his lantern well away. Nobody had ever seen anything come through it.
+          - listitem [ref=f5e41]:
+            - text: II
+            - heading "The landing" [level=3] [ref=f5e42]
+            - paragraph [ref=f5e43]: One warm night, something did. First two round ears, then a sleepy orange head, then a very serious little face. Ditó stepped onto the nearest cloud, patted it twice and sat down. It was soft, he said, and he was staying.
+          - listitem [ref=f5e44]:
+            - button "Boop Ditó (that’s me!)" [ref=f5e45] [cursor=pointer]: that’s me!
+            - text: III
+            - heading "The stitch" [level=3] [ref=f5e73]
+            - paragraph [ref=f5e74]: He arrived with a seam down his tummy, a mended patch on one ear and a tiny brass ring on a string, a piece of the gate he would not give back. The night watchman asked his name. He said “Ditó”, and it sounded like a small bell going up.
+        - paragraph [ref=f5e75]: He is still up there. The cloud is polite about it.
+      - region [ref=f5e76]:
+        - generic [ref=f5e77]:
+          - paragraph [ref=f5e78]:
+            - generic [ref=f5e79]: (02)
+            - text: Meet Ditó
+          - heading "Meet Ditó. He is a bear, thank you." [level=2] [ref=f5e80]:
+            - text: Meet Ditó.
+            - generic [ref=f5e81]: He is a bear, thank you.
+        - generic [ref=f5e82]:
+          - complementary [ref=f5e83]:
+            - button "Boop Ditó (squeeze!)" [ref=f5e84] [cursor=pointer]: squeeze!
+            - paragraph [ref=f5e123]: HELLO my name is
+            - paragraph [ref=f5e124]: Ditó
+            - generic [ref=f5e125]:
+              - generic [ref=f5e126]:
+                - term [ref=f5e127]: Species
+                - definition [ref=f5e128]: teddy bear
+              - generic [ref=f5e129]:
+                - term [ref=f5e130]: Home
+                - definition [ref=f5e131]: the cloud right above the town
+              - generic [ref=f5e132]:
+                - term [ref=f5e133]: Age
+                - definition [ref=f5e134]: one full moon, he says
+              - generic [ref=f5e135]:
+                - term [ref=f5e136]: Stuffing
+                - definition [ref=f5e137]: a secret
+          - generic [ref=f5e138]:
+            - article [ref=f5e139]:
+              - heading "Likes" [level=3] [ref=f5e140]
+              - list [ref=f5e141]:
+                - listitem [ref=f5e142]: Moonlight on warm clouds.
+                - listitem [ref=f5e143]: "Being counted: one boop, two boops."
+                - listitem [ref=f5e144]: Honey-oat biscuits, dunked in warm milk.
+                - listitem [ref=f5e145]: The far-off bell of the clock tower.
+            - article [ref=f5e146]:
+              - heading "Dislikes" [level=3] [ref=f5e147]
+              - list [ref=f5e148]:
+                - listitem [ref=f5e149]: Being called “just a toy”.
+                - listitem [ref=f5e150]: Thunderclouds with bad manners.
+                - listitem [ref=f5e151]: Rooftop pigeons who stand too close.
+                - listitem [ref=f5e152]: Rain on his ears (mostly).
+            - article [ref=f5e153]:
+              - heading "Habits" [level=3] [ref=f5e154]
+              - list [ref=f5e155]:
+                - listitem [ref=f5e156]: Counts the lit windows, loses count at forty, starts again happily.
+                - listitem [ref=f5e157]: Waves at every plane, even the ones that are stars.
+                - listitem [ref=f5e158]: Hums when he thinks, a little flat.
+                - listitem [ref=f5e159]: Naps at midnight, one ear on the town.
+            - article [ref=f5e160]:
+              - heading "Favourites" [level=3] [ref=f5e161]
+              - list [ref=f5e162]:
+                - listitem [ref=f5e163]: "Colour: lantern orange at 6:04 pm."
+                - listitem [ref=f5e164]: "Number: seven."
+                - listitem [ref=f5e165]: "Word: “poof”."
+                - listitem [ref=f5e166]: "Place: exactly here, on top."
+      - generic [ref=f5e168]:
+        - list [ref=f5e169]:
+          - listitem [ref=f5e170]:
+            - text: poof
+            - generic [aria-hidden] [ref=f5e171]: ó
+          - listitem [ref=f5e172]:
+            - text: boop
+            - generic [aria-hidden] [ref=f5e173]: ó
+          - listitem [ref=f5e174]:
+            - text: naps at midnight
+            - generic [aria-hidden] [ref=f5e175]: ó
+          - listitem [ref=f5e176]:
+            - text: one-two-three windows
+            - generic [aria-hidden] [ref=f5e177]: ó
+          - listitem [ref=f5e178]:
+            - text: biscuit, dunked
+            - generic [aria-hidden] [ref=f5e179]: ó
+          - listitem [ref=f5e180]:
+            - text: the moon says hi
+            - generic [aria-hidden] [ref=f5e181]: ó
+        - list [ref=f5e182]:
+          - listitem [ref=f5e183]:
+            - text: poof
+            - generic [aria-hidden] [ref=f5e184]: ó
+          - listitem [ref=f5e185]:
+            - text: boop
+            - generic [aria-hidden] [ref=f5e186]: ó
+          - listitem [ref=f5e187]:
+            - text: naps at midnight
+            - generic [aria-hidden] [ref=f5e188]: ó
+          - listitem [ref=f5e189]:
+            - text: one-two-three windows
+            - generic [aria-hidden] [ref=f5e190]: ó
+          - listitem [ref=f5e191]:
+            - text: biscuit, dunked
+            - generic [aria-hidden] [ref=f5e192]: ó
+          - listitem [ref=f5e193]:
+            - text: the moon says hi
+            - generic [aria-hidden] [ref=f5e194]: ó
+      - region [ref=f5e195]:
+        - generic [ref=f5e196]:
+          - paragraph [ref=f5e197]:
+            - generic [ref=f5e198]: (03)
+            - text: Watch
+          - heading "Ditó is always here. Mostly awake." [level=2] [ref=f5e199]:
+            - text: Ditó is always here.
+            - generic [ref=f5e200]: Mostly awake.
+          - generic [ref=f5e201]: Scroll up any time and he is doing something. This is his day.
+        - generic [ref=f5e202]:
+          - generic [ref=f5e203]:
+            - button "Boop Ditó (hello!)" [ref=f5e204] [cursor=pointer]: hello!
+            - paragraph [ref=f5e240]:
+              - generic [ref=f5e242]: "Right now: dunking a biscuit"
+          - list [ref=f5e243]:
+            - listitem [ref=f5e244]:
+              - time [ref=f5e245]: 06:00
+              - generic [ref=f5e246]: Sunrise stretch
+              - generic [ref=f5e247]: with a very big yawn
+            - listitem [ref=f5e248]:
+              - time [ref=f5e249]: 08:00
+              - generic [ref=f5e250]: Counting windows
+              - generic [ref=f5e251]: stops at forty
+            - listitem [ref=f5e252]:
+              - time [ref=f5e253]: 10:30
+              - generic [ref=f5e254]: Waving at planes
+            - listitem [ref=f5e255]:
+              - time [ref=f5e256]: 12:30
+              - generic [ref=f5e257]: Biscuit o’clock
+              - generic [ref=f5e258]: dunked in warm milk
+            - listitem [ref=f5e259]:
+              - time [ref=f5e260]: 15:00
+              - generic [ref=f5e261]: Watching pigeons
+              - generic [ref=f5e262]: from a safe distance
+            - listitem [ref=f5e263]:
+              - time [ref=f5e264]: 18:00
+              - generic [ref=f5e265]: Orange hour
+              - generic [ref=f5e266]: a spin just because
+            - listitem [ref=f5e267]:
+              - time [ref=f5e268]: 21:00
+              - generic [ref=f5e269]: Chatting with the moon
+            - listitem [ref=f5e270]:
+              - time [ref=f5e271]: 00:00
+              - generic [ref=f5e272]: Naps at midnight
+            - listitem [ref=f5e273]:
+              - time [ref=f5e274]: 03:00
+              - generic [ref=f5e275]: Dreaming of very fluffy socks
+        - heading "Tricks he knows" [level=3] [ref=f5e276]
+        - list [ref=f5e277]:
+          - listitem [ref=f5e278]:
+            - button "Boop Ditó (hello!)" [ref=f5e279] [cursor=pointer]: hello!
+            - generic [ref=f5e315]:
+              - paragraph [ref=f5e316]: Wave
+              - paragraph [ref=f5e317]: Hello, to everyone, always.
+            - 'button "Show me: Wave" [ref=f5e318] [cursor=pointer]': Show me
+          - listitem [ref=f5e319]:
+            - button "Boop Ditó (wheee)" [ref=f5e320] [cursor=pointer]: wheee
+            - generic [ref=f5e359]:
+              - paragraph [ref=f5e360]: Spin
+              - paragraph [ref=f5e361]: One full turn, clouds included.
+            - 'button "Show me: Spin" [ref=f5e362] [cursor=pointer]': Show me
+          - listitem [ref=f5e363]:
+            - button "Boop Ditó (poof)" [ref=f5e364] [cursor=pointer]: poof
+            - generic [ref=f5e409]:
+              - paragraph [ref=f5e410]: Jump
+              - paragraph [ref=f5e411]: Up, up, poof.
+            - 'button "Show me: Jump" [ref=f5e412] [cursor=pointer]': Show me
+          - listitem [ref=f5e413]:
+            - button "Boop Ditó (boop boop)" [ref=f5e414] [cursor=pointer]:
+              - img [aria-hidden] [ref=f5e416]:
+                - generic [ref=f5e450]: ♪
+              - text: boop boop
+            - generic [ref=f5e451]:
+              - paragraph [ref=f5e452]: Dance
+              - paragraph [ref=f5e453]: Four beats, one very happy bear.
+            - 'button "Show me: Dance" [ref=f5e454] [cursor=pointer]': Show me
+          - listitem [ref=f5e455]:
+            - button "Boop Ditó (squeeze!)" [ref=f5e456] [cursor=pointer]: squeeze!
+            - generic [ref=f5e493]:
+              - paragraph [ref=f5e494]: Hug
+              - paragraph [ref=f5e495]: Squeezes you through the screen.
+            - 'button "Show me: Hug" [ref=f5e496] [cursor=pointer]': Show me
+          - listitem [ref=f5e497]:
+            - button "Boop Ditó (shh...)" [ref=f5e498] [cursor=pointer]:
+              - img [aria-hidden] [ref=f5e500]:
+                - generic [ref=f5e544]:
+                  - generic [ref=f5e545]: z
+                  - generic [ref=f5e546]: z
+                  - generic [ref=f5e547]: z
+              - text: shh...
+            - generic [ref=f5e548]:
+              - paragraph [ref=f5e549]: Sleep
+              - paragraph [ref=f5e550]: Please whisper.
+            - 'button "Show me: Sleep" [ref=f5e551] [cursor=pointer]': Show me
+  - contentinfo [ref=f5e552]:
+    - img [aria-hidden] [ref=f5e555]:
+      - generic [ref=f5e599]:
+        - generic [ref=f5e600]: z
+        - generic [ref=f5e601]: z
+        - generic [ref=f5e602]: z
+    - generic [ref=f5e605]:
+      - link [ref=f5e606] [cursor=pointer]:
+        - /url: "#top"
+      - navigation "Footer" [ref=f5e610]:
+        - list [ref=f5e611]:
+          - listitem [ref=f5e612]:
+            - link "Story" [ref=f5e613] [cursor=pointer]:
+              - /url: "#story"
+          - listitem [ref=f5e614]:
+            - link "Meet Ditó" [ref=f5e615] [cursor=pointer]:
+              - /url: "#meet"
+          - listitem [ref=f5e616]:
+            - link "Watch" [ref=f5e617] [cursor=pointer]:
+              - /url: "#watch"
+          - listitem [ref=f5e618]:
+            - link "Say hi" [ref=f5e619] [cursor=pointer]:
+              - /url: "#top"
+          - listitem [ref=f5e620]:
+            - link "Back to top" [ref=f5e621] [cursor=pointer]:
+              - /url: "#top"
+    - paragraph [ref=f5e622]: Ditó is asleep on his little cloud. Please whisper.
+    - generic [ref=f5e623]:
+      - paragraph [ref=f5e624]: Teddy, clouds and town drawn in code with three.js and a very patient shader.
+      - paragraph [ref=f5e625]: "Voice from your browser’s speech tools. Ditó is an AI character: he is imaginary, and so are his biscuits."
+      - paragraph [ref=f5e626]: © 2026 Ditó. All the clouds are pretend.
+      - paragraph [ref=f5e627]: Ditó is an AI bear. He is friendly but he does not know everything. Please never share your name, address or school.
+  - status
